@@ -4,6 +4,9 @@ Sales data analysis using SQL to uncover revenue trends, top customers, and prod
 This project provides an end-to-end analysis of global sales data using MySQL for data extraction and Python (Matplotlib/Pandas) for advanced visualization. The goal was to identify seasonal trends, evaluate product line performance, and assess operational efficiency.
 
 Insights
+
+
+
 Peak Seasonality: Analysis identified November as the highest-grossing month, contributing significantly to Q4 revenue.
 
 Product Dominance: Classic Cars represent the largest market share (39.1%), showing a strong correlation between order volume and total revenue.
