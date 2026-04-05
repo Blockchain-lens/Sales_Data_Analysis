@@ -23,8 +23,7 @@ Visualization: Multi-color categorical palettes (Optimized for data distinction)
 │   ├── raw/            # Original source files
 │   └── processed/      # Cleaned CSVs used for the final analysis
 ├── sql/
-│   └── queries.sql     # SQL logic used for data extraction and KPIs
-├── scripts/            # Python code used to generate project visuals
+│   └── the process.sql # SQL logic used for data extraction and KPIs
 ├── visuals/            # Final exported charts in .png format
 └── README.md           # Project documentation and summary
 
